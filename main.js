@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const confirmButton = document.getElementById('submit-form');
   const whatsappButton = document.getElementById('whatsapp-form');
 
-  const doctorWhatsAppNumber = '919876543210'; // Doctor's WhatsApp number with country code (+91)
+  const doctorWhatsAppNumber = '917218759043'; // Doctor's WhatsApp number with country code (+91)
 
   function buildWhatsAppMessage(formData) {
     const date = document.getElementById('visit-date').value || 'Not Specified';
