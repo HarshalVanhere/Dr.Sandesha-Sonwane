@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nashikphysio.com/sitemap.xml
+Sitemap: https://www.drsandesha.in/sitemap.xml
